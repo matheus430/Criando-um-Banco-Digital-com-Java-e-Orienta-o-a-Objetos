@@ -1,0 +1,7 @@
+package desafioBanco;
+
+public class ContaPoupanca {
+	public int numero;
+	public int conta;
+	public double saldo;
+}

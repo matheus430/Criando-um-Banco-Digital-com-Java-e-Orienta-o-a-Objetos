@@ -1,0 +1,5 @@
+package desafioBanco.operacoes;
+
+public interface Saque {
+	void sacar();
+}

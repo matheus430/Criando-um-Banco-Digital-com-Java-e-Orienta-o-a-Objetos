@@ -1,0 +1,7 @@
+package desafioBanco;
+
+public class ContaCorrente {
+	private int numero;
+	private int conta;
+	private double saldo;
+}
